@@ -52,34 +52,52 @@ graph TD
 
 ### 4.1 Dashboard
 - Navigation bar with Template, Account, About Platform, and Pricing sections
-- Project listing view
+- Project listing view with categorization by product type (SEO Reporting, Paid Ads Reporting)
 - AI chat interface on the right side
 - Quick access to report creation
+- Recent reports and project activity feed
 
-### 4.2 Report Builder
-- Template selection interface
-- Data source connection management
-- Drag-and-drop report components
-- Real-time preview functionality
+### 4.2 Website SEO Reporting Product
+- Google Search Console integration for keyword rankings and impressions
+- Google Analytics integration for organic traffic metrics
+- Backlink analysis capabilities
+- Technical SEO audit data visualization
+- Competitor analysis integration
+- SEO performance KPIs dashboard
 
-### 4.3 AI Chat Interface
-- Natural language query input
-- Intelligent question prompting for clarification
-- Data visualization suggestions
-- Report customization options
+### 4.3 Paid Ads Reporting Product
+- Google Ads integration for campaign performance
+- Facebook Ads integration for social advertising metrics
+- Conversion tracking and ROI calculations
+- Ad spend optimization recommendations
+- Multi-platform campaign comparison
+- Paid traffic performance KPIs dashboard
 
-### 4.4 Data Integration Module
+### 4.4 AI Chat Interface
+- Natural language query input positioned on the right side of dashboard
+- Intelligent question prompting for clarification (e.g., "Which time period would you like to analyze?", "Would you like to compare this data with previous periods?")
+- Data visualization suggestions based on query context
+- Report customization options through conversational UI
+- Ability to refine and iterate on report content through chat
+- Context preservation across multi-turn conversations
+
+### 4.5 Data Integration Module
 - Google Analytics connector
 - Google Search Console connector
 - Looker Studio connector
 - Google Sheets connector
+- Facebook Ads API connector
+- Google Ads API connector
 - Data validation and error handling
+- Connection status monitoring
 
-### 4.5 Report Generator
-- Chart and visualization engine
-- KPI dashboard components
+### 4.6 Report Generator
+- Chart and visualization engine with multiple chart types (bar, line, pie, area, etc.)
+- KPI dashboard components with customizable widgets
 - Export functionality (PDF, PPT, Excel)
 - Free tier limitation (first 3 projects)
+- Branding customization options
+- Automated report scheduling
 
 ## 5. User Flow
 
